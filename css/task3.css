@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	padding: 20px;
+}
+.content{
+	border: 1px solid #999;
+	background: #eee;
+	padding: 20px;
+	overflow: auto;
+}
+.left{
+	width: 160px;
+	border: 1px solid #999;
+	padding: 20px;
+	float: left;
+	background: #fff;
+}
+.team-logo{
+	float: left;	
+}
+.left h2{
+	text-align: center;
+	font-size: small;
+}
+.right{
+	float: right;
+	width: 120px;
+	border:1px solid #999;
+	background: #FFFFFF;
+}
+.personal-logo{
+	display: block;
+	margin: 20px;
+}
+.middle{
+	background: #FFFFFF;
+	border: 1px solid #999;
+	padding: 20px;
+	margin-left:220px;
+	margin-right:140px;
+}
